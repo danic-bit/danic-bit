@@ -2,7 +2,7 @@
 
 ## Soy Daniela Camousseigt Bertin
 
-### Full Stack Developer Junior :snake:
+### Full Stack Python Developer Junior
 
 Reconvertida digital, pienso que el mundo necesita mejores espacios virtuales para habitar, que sean funcionales, acogedores, inclusivos y hermosos. De formación arquitecto, mi vocación ahora se vuelca hacia la creación de espacios que nos puedan facilitar y alegrar el día a día 😄
 
