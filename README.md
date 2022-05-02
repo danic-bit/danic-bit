@@ -2,11 +2,13 @@
 
 ## Soy Daniela Camousseigt Bertin
 
-### Full Stack Python Developer Junior
+### Full Stack Developer Junior :snake:
 
-Reconvertida digital, pienso que el mundo necesita mejores espacios virtuales para habitar, que sean funcionales, acogedores, inclusivos y hermosos. De formación arquitecto, mi vocación ahora se vuelca hacia la creación de espacios que nos puedan facilitar y alegrar el día a día 😄
+Reconvertida digital, pienso que el mundo necesita mejores espacios virtuales para habitar, que sean funcionales, acogedores e inclusivos.
 
-:speech_balloon: Me puedes contactar a través de mi LinkedIn: https://www.linkedin.com/in/dcb-dev/
+Desarrollo de aplicaciones web con **Python + Django**, HTML, CSS, Bootstrap y conocimiento en Base de Datos y PostgreSQL. 
+
+📫 Me puedes contactar a través de mi LinkedIn: https://www.linkedin.com/in/dcb-dev/
 
 
 
