@@ -8,7 +8,7 @@ Reconvertida digital, pienso que el mundo necesita mejores espacios virtuales pa
 
 Desarrollo de aplicaciones web con **Python + Django**, HTML, CSS, Bootstrap y conocimiento en Base de Datos y PostgreSQL. 
 
-📫 Me puedes contactar a través de mi LinkedIn: https://www.linkedin.com/in/dcb-dev/
+📫 Me puedes contactar a través de mi <a href="https://www.linkedin.com/in/dcb-dev/" title="ver" rel="nofollow">LinkedIn</a>
 
 
 
